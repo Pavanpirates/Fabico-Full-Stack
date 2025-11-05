@@ -1,5 +1,4 @@
 import { v2 as cloudinary } from 'cloudinary';
-import { image } from 'qr-image';
 import productModel from "../models/productModel.js"
 
 
